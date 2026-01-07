@@ -1,16 +1,16 @@
-# 📊 NIFTY 50 Live Stock Market Dashboard
+#  NIFTY 50 Live Stock Market Dashboard
 
 This repository provides a **clean, reliable, and reproducible solution** to fetch **live NIFTY 50 stock market data** directly from the **National Stock Exchange of India (NSE)** using an **official JSON-based endpoint**.
 
 The project is designed for developers, data analysts, and students who want **real-time Indian stock market data** without relying on fragile web scraping techniques.
 
-- 🚫 No HTML scraping  
-- ✅ API-based data fetching  
-- 📈 Suitable for analysis, dashboards, Kaggle notebooks, and ML workflows  
+-  No HTML scraping  
+-  API-based data fetching  
+-  Suitable for analysis, dashboards, Kaggle notebooks, and ML workflows  
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 The main goal of this repository is to make **live NIFTY 50 data easily accessible in Python**, convert it into a **clean Pandas DataFrame**, and enable quick use in:
 
@@ -21,7 +21,7 @@ The main goal of this repository is to make **live NIFTY 50 data easily accessib
 
 ---
 
-## 🔹 Key Features
+##  Key Features
 
 - Live data for **all 50 NIFTY stocks**
 - Open, High, Low, and Previous Close prices
@@ -35,7 +35,7 @@ The main goal of this repository is to make **live NIFTY 50 data easily accessib
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - Python  
 - Requests (API communication)  
@@ -44,7 +44,7 @@ The main goal of this repository is to make **live NIFTY 50 data easily accessib
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 nifty50-live-dashboard/
